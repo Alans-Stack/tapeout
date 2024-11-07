@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+t
 Explain how your project works
 Input 0-1 are input A and B respectively, if A and B are one, the output should be reflected in  Output 1 for 2, and if A or B are 1 while the other is, output is reflected in Output0
 
