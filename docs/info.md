@@ -10,11 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+Input 0-1 are input A and B respectively, if A and B are one, the output should be reflected in  Output 1 for 2, and if A or B are 1 while the other is, output is reflected in Output0
 
 ## How to test
 
 Explain how to use your project
-
+turn on A or B and cross checl
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
